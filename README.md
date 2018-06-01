@@ -11,8 +11,12 @@ My modifications to Antergos styled i3 installation (sudo pacman -S [antergos-i3
 * standard workspace_layout tabbed
 
 To use it simple follow this steps:
+
 * [install antergos with XFCE Desktop](https://antergos.com/wiki/install/installing-antergos-2/)
-`sudo pacman -S antergos-i3-meta`
-clone the repository:
+
+* `sudo pacman -S antergos-i3-meta`
+
+* clone the repository:
 `git clone https://github.com/killajoe/i3-antergos.git`
-and copy the two folder **i3** and **i3status under your** `~.config` directory.
+
+* Copy the two folder **i3** and **i3status under your** `~.config` directory.
