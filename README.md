@@ -1,5 +1,5 @@
 # i3-antergos
-![i3-antergos](https://i.imgur.com/UzcH8Ep.png "i3-antergos")
+![i3-antergos](https://i.imgur.com/XjIf9Ag.png "i3-antergos")
 
 My modifications to Antergos styled i3 installation (sudo pacman -S [antergos-i3-meta](https://github.com/Antergos/antergos-packages/blob/master/antergos/antergos-i3-meta/PKGBUILD))
 
