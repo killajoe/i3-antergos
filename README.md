@@ -19,4 +19,4 @@ To use it simple follow this steps:
 * clone the repository:
 `git clone https://github.com/killajoe/i3-antergos.git`
 
-* Copy the two folder **i3** and **i3status under your** `~.config` directory.
+* Copy the two folder **i3** and **i3status** under your `~.config` directory.
