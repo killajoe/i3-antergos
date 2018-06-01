@@ -1,1 +1,18 @@
 # i3-antergos
+![i3-antergos](https://i.imgur.com/UzcH8Ep.png "i3-antergos")
+
+My modifications to Antergos styled i3 installation (sudo pacman -S antergos-i3-meta)
+
+* adding polkit-gnome to get athentification for gui apps working.
+* change from kalu to pamac, and adding pamac-tray to autostarting.
+* fixed time and date to look more clean.
+* change volume icons to speaker from bell.
+* bind F4 to kill focused windows
+* standard workspace_layout tabbed
+
+To use it simple follow this steps:
+
+`sudo pacman -S antergos-i3-meta`
+clone the repository:
+`git clone https://github.com/killajoe/i3-antergos.git`
+and copy the two folder **i3** and **i3status under your** `~.config` directory.
